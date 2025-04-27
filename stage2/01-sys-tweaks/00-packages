@@ -14,9 +14,7 @@ luajit
 ca-certificates curl
 fake-hwclock nfs-common usbutils
 dosfstools
-dphys-swapfile
 raspberrypi-sys-mods
-pi-bluetooth
 apt-listchanges
 usb-modeswitch
 libpam-chksshpwd
@@ -28,7 +26,6 @@ man-db
 policykit-1
 ssh-import-id
 ethtool
-ntfs-3g
 pciutils
 rpi-eeprom
 raspi-utils
@@ -37,3 +34,4 @@ unzip zip p7zip-full
 file
 kms++-utils
 python3-venv
+
